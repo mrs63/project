@@ -1,0 +1,5 @@
+[2016/03/24 15:34:27.891737,  0] ../lib/util/debug.c:597(reopen_logs_internal)
+  Unable to open new log file '/var/log/samba/log.%m': Permission denied
+[2016/03/24 15:34:27.891859,  0] ../source4/smbd/server.c:370(binary_smbd_main)
+  samba version 4.1.6-Ubuntu started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2013
